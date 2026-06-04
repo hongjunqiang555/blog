@@ -15,7 +15,7 @@ export default function Categories() {
     <div>
       <section className="mb-8">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">分类</h1>
-        <p className="text-gray-500 dark:text-gray-400">按分类浏览文章</p>
+        <p className="text-gray-500 dark:text-gray-400">按分类浏览文章456</p>
       </section>
 
       <div className="flex flex-wrap gap-2 mb-8">

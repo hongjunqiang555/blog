@@ -16,7 +16,7 @@ export default function Tags() {
     <div>
       <section className="mb-8">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">标签</h1>
-        <p className="text-gray-500 dark:text-gray-400">按标签浏览文章</p>
+        <p className="text-gray-500 dark:text-gray-400">按标签浏览文章789</p>
       </section>
 
       <div className="flex flex-wrap gap-2 mb-8">

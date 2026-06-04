@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <section className="mb-10">
         <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">Latest Posts</h1>
-        <p className="text-gray-500 dark:text-gray-400">探索前端开发的最新技术与实践</p>
+        <p className="text-gray-500 dark:text-gray-400">探索前端开发的最新技术与实践123</p>
       </section>
 
       <div className="grid gap-6">
